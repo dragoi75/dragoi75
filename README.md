@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+deca&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Andrei;I+study+Computer+Science+%40+TU+Delft;And+I+am+a+learning+enthuziast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+deca&pause=1000&color=803c93&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Andrei;I+study+Computer+Science+%40+TU+Delft%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+I+am+a+learning+enthusiast%E2%9A%A1)](https://git.io/typing-svg)
 
- 
 <!--
 **dragoi75/dragoi75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
