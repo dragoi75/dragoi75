@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+deca&pause=1000&color=FFFFFF&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Andrei;I+study+Data+Science+and+AI+Technology+%40+TU+Delft%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+I+am+a+learning+enthusiast%E2%9A%A1)](https://git.io/typing-svg)
+<picture>
+  <a href="https://git.io/typing-svg"><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lexend+deca&pause=1000&color=FFFFFF&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Andrei;I+study+Data+Science+and+AI+Technology+%40+TU+Delft%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+I+am+a+learning+enthusiast%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+deca&pause=1000&color=000000&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Andrei;I+study+Data+Science+and+AI+Technology+%40+TU+Delft%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+I+am+a+learning+enthusiast%E2%9A%A1" alt="Typing SVG" /></a>
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreidragoi) 
