@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Lexend+deca&pause=1000&color=000000&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I%27m+Andrei;I+study+Data+Science+%26+AI+Technology+%40+TU+Delft+;I+am+a+Software+Engineer+Intern+%40+Google+%F0%9F%92%BB;And+I+am+a+learning+enthusiast+%E2%9A%A1" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Lexend+deca&pause=1000&color=000000&random=false&width=600&lines=Hi+there+👋+I%27m+Andrei;I+study+Data+Science+%26+AI+Technology+%40+TU+Delft+🇳🇱;I+am+a+Software+Engineer+Intern+%40+Google+💻;And+I+am+a+learning+enthusiast+⚡" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Lexend+deca&pause=1000&color=ffffff&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I%27m+Andrei;I+study+Data+Science+%26+AI+Technology+%40+TU+Delft+;I+am+a+Software+Engineer+Intern+%40+Google+%F0%9F%92%BB;And+I+am+a+learning+enthusiast+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Lexend+deca&pause=1000&color=000000&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I%27m+Andrei;I+study+Data+Science+%26+AI+Technology+%40+TU+Delft+;I+am+a+Software+Engineer+Intern+%40+Google+%F0%9F%92%BB;And+I+am+a+learning+enthusiast+%E2%9A%A1)" alt="Typing SVG" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
